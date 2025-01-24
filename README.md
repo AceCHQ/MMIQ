@@ -1,12 +1,9 @@
-# MMMU Benchmark
+# MMIQ Benchmark
 
 [**🌐 Homepage**](https://AceCHQ.github.io/MMIQ) | [**🏆 Leaderboard**](https://AceCHQ.github.io/MMIQ/#leaderboard) | [**🤗 MMIQ**](https://huggingface.co/datasets/MMIQ/) | [**📖 MMIQ arXiv**]() 
 
 This repo contains the evaluation code for the paper "[MMIQ: Are Your Multimodal Large Language Models Smart Enough?](https://arxiv.org/abs/)"
 
-## 🔔News
-
-- **🔥[2024-09-05] Introducing [MMIQ](https://arxiv.org/abs/2409.02813), a robust version of MMMU benchmark for multimodal AI evaluation! 🚀**
 
 ## Introduction
 
@@ -33,8 +30,7 @@ Please refer to our evaluation folder for detailed information on evaluating wit
 🎯 **MMIQ Evaluation**
 
 - **We have released MMIQ dataset with 2710 problems, across eight reasoning patterns.**
-- Use the **development set** for few-shot/in-context learning.
-- Use the **validation set** for debugging models, selecting hyperparameters, and quick evaluations.
+- **With our evaluation folder, you can use the MLLM's response or the parsed prediction as input to get the performance of MMIQ. **
 
 
 ## Disclaimers
@@ -44,14 +40,4 @@ Should you encounter any data samples potentially breaching the copyright or lic
 ## Contact
 - Huanqia Cai: caihuanqia19@mails.ucas.ac.cn
 
-## Citation
 
-**BibTeX:**
-```bibtex
-@inproceedings{yue2023mmmu,
-  title={MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI},
-  author={Xiang Yue and Yuansheng Ni and Kai Zhang and Tianyu Zheng and Ruoqi Liu and Ge Zhang and Samuel Stevens and Dongfu Jiang and Weiming Ren and Yuxuan Sun and Cong Wei and Botao Yu and Ruibin Yuan and Renliang Sun and Ming Yin and Boyuan Zheng and Zhenzhu Yang and Yibo Liu and Wenhao Huang and Huan Sun and Yu Su and Wenhu Chen},
-  booktitle={Proceedings of CVPR},
-  year={2024},
-}
-```
