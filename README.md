@@ -1,6 +1,6 @@
 # MMIQ Benchmark
 
-[**🌐 Homepage**](https://AceCHQ.github.io/MMIQ) | [**🏆 Leaderboard**](https://AceCHQ.github.io/MMIQ/#leaderboard) | [**🤗 MMIQ**](https://huggingface.co/datasets/MMIQ/) | [**📖 MMIQ arXiv**]() 
+[**🌐 Homepage**](https://mmiq-benchmark.github.io/) | [**🏆 Leaderboard**](https://mmmu-benchmark.github.io/#leaderboard) | [**🤗 MMIQ**](https://huggingface.co/datasets/MMIQ/) | [**📖 MMIQ arXiv**]() 
 
 This repo contains the evaluation code for the paper "[MMIQ: Are Your Multimodal Large Language Models Smart Enough?](https://arxiv.org/abs/)"
 
