@@ -41,4 +41,6 @@ Should you encounter any data samples potentially breaching the copyright or lic
 ## Contact
 - Huanqia Cai: caihuanqia19@mails.ucas.ac.cn
 
+## Acknowledgment
+Our code based on [MMMU](https://github.com/MMMU-Benchmark/MMMU). We thank the authors of MMMU for their great work and clean code.
 
