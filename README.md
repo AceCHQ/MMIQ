@@ -8,11 +8,9 @@ This repo contains the evaluation code for the paper "[MMIQ: Are Your Multimodal
 ## Introduction
 
 
-### ![MMIQ](https://github.com/user-attachments/assets/038bb4dc-5330-4ea4-abd3-71328d6d4ab1) MMIQ
+###  MMIQ
 
 MMIQ is a new benchmark designed to evaluate MLLMs' intelligence through multiple reasoning patterns demanding abstract reasoning abilities. It encompasses **three input formats, six problem configurations, and eight reasoning patterns**. With **2,710 samples**, MMIQ is the most comprehensive and largest AVR benchmark for evaluating the intelligence of MLLMs, and **3x and 10x** larger than two very recent benchmarks MARVEL and MathVista-IQTest, respectively. With MMIQ, we have conducted a comprehensive, quantitative evaluation of prominent MLLMs and present significant challenges: For example, the best-performing MLLM only achieves an average accuracy of 27.49%, slightly higher than randomly selecting an answer among four options. Notably, the accuracy of 75% reasoning patterns is lower than 30%. The best-performing MLLM falls short of human performance by 23.8%, as it often stucks in incorrect visual understanding and recognition of wrong pattern. This substantial gap highlights MLLMs' limitations in AVR tasks and underscores the necessity of our MMIQ. By focusing on AVR problems, MMIQ provides a targeted assessment of the cognitive capabilities and intelligence of MLLMs, contributing to a more comprehensive understanding of their strengths and limitations in the pursuit of artificial general intelligence (AGI).
-
-
 
 
 
