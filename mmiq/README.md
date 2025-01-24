@@ -11,9 +11,6 @@ If you want to use your own parsing logic and *only provide the final answer*, y
 
 You can provide all the outputs in *one file* in the following format:
 
-
-### Output file
-Each `output.jsonl`` has lines of json, each containing an instance for evaluation.
 ```
 {
     "data_id": "0",
@@ -26,16 +23,16 @@ Each `output.jsonl`` has lines of json, each containing an instance for evaluati
     "categoty": "Temporal Movement",
     "parsed_pred": "D"
 },
-...
-```
 
 ```
+
+
 Then run eval_only with:
 ```
-python main_eval_only.py --output_path ./example_outputs/exampple_output.jsonl --input_path ./MMIQ_benchmark.jsonl
+python main_eval_only.py --output_path ./example_outputs/example_output.jsonl --input_path ./MMIQ_benchmark.jsonl
 ```
 
-Please refer to [example output](https://github.com/MMMU-Benchmark/MMMU/blob/main/mmmu/example_outputs/llava1.5_13b/total_val_output.json) for a detailed prediction file form.
+Please refer to [example output](https://github.com/AceCHQ/MMIQ/blob/main/mmiq/example_outputs/output_example.jsonl) for a detailed prediction file form.
 
 
 ## Parse and Evaluation
@@ -60,7 +57,7 @@ Each `output.jsonl`` has lines of json, each containing an instance for evaluati
 
 ### Evaluation
 ```
-python main_parse_and_eval.py --output_path ./example_outputs/llava1.5_13b --input_path ./MMIQ_benchmark.jsonl                 
+python main_parse_and_eval.py --output_path ./example_outputs/llava1.5_13b/example_output.jsonl --input_path ./MMIQ_benchmark.jsonl                 
 ```
 
 `main_parse_and_eval.py` will generate `result.json` under the same folder with `output_path`.
@@ -75,8 +72,8 @@ python main_parse_and_eval.py --output_path ./example_outputs/llava1.5_13b --inp
 ...
 ```
 
-##### Run Llava
-In case if you want to reproduce the results of some models, please go check `run_llava.py` as an example.
+## Run Llava
+We also provide an example to get the result of LLaVA, please go check `run_llava.py`.
 
 By setting up the env for llava via following steps:
 
@@ -85,17 +82,17 @@ Step 1:
 git clone https://github.com/haotian-liu/LLaVA.git
 cd LLaVA
 ```
-In Step 2:
+Step 2:
 ```
 conda create -n llava python=3.10 -y
 conda activate llava
 pip install --upgrade pip  # enable PEP 660 support
 git fetch --tags  
-git checkout tags/v1.1.3  # back to the version when running MMMU
+git checkout tags/v1.1.3  
 pip install -e .
 ```
 
-The above will install llava (1.5 only) and corresponding correct transformers version when running MMIQ.
+The above will install llava (1.5 only) and corresponding correct transformers version.
 Then by installing `datasets` packages from huggingface (i.e., `pip install datasets`), you can run llava with the following command:
 
 ```
