@@ -29,7 +29,7 @@ You can provide all the outputs in *one file* in the following format:
 
 Then run eval_only with:
 ```
-python main_eval_only.py --output_path ./example_outputs/exampple_output_parsed.jsonl --input_path ./MMIQ_benchmark_answer_dict.jsonl
+python main_eval_only.py --output_path ./example_outputs/exampple_output_parsed.jsonl --answer_path ./MMIQ_benchmark_answer_dict.jsonl
 ```
 
 Please refer to [example output](https://github.com/AceCHQ/MMIQ/blob/main/mmiq/example_outputs/output_example.jsonl) for a detailed prediction file form.
@@ -57,7 +57,7 @@ Each `output.jsonl`` has lines of json, each containing an instance for evaluati
 
 ### Evaluation
 ```
-python main_parse_and_eval.py --output_path ./example_outputs/example_model_output/output_example.jsonl --input_path ./MMIQ_benchmark_answer_dict.jsonl            
+python main_parse_and_eval.py --output_path ./example_outputs/example_model_output/output_example.jsonl --answer_path ./MMIQ_benchmark_answer_dict.jsonl            
 ```
 
 `main_parse_and_eval.py` will generate `result.json` under the same folder with `output_path`.
