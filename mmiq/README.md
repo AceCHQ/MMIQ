@@ -33,7 +33,7 @@ Please refer to [example output](https://github.com/AceCHQ/MMIQ/blob/main/mmiq/e
 
 
 ## Parse and Evaluation
-You can also provide the LMM's responses and run the `main_parse_and_eval.py` to execute our answer-parsing program and evaluation as below:
+You can also provide the MLLM's responses and run the `main_parse_and_eval.py` to execute our answer-parsing program as below:
 
 ### Output file
 ```
@@ -51,7 +51,7 @@ You can also provide the LMM's responses and run the `main_parse_and_eval.py` to
     ...
 ```
 
-Please refer to [example output](https://github.com/AceCHQ/MMIQ/blob/main/mmiq/example_outputs/example_model_output/output_example.jsonl) for a detailed prediction file form.
+Please refer to [example output](https://github.com/AceCHQ/MMIQ/blob/main/mmiq/example_outputs/example_model_output/output_example.jsonl) for a correct form of the prediction file.
 
 ### Evaluation
 ```
