@@ -7,6 +7,9 @@ This repo contains the evaluation code for the [MMIQ benchmark](https://acechq.g
 
 ## Introduction
 
+<div align="center">
+<img src="https://acechq.github.io/MMIQ-benchmark/static/imgs/MMIQ_distribution.png" width="50%">
+</div>
 
 ###  MMIQ
 
