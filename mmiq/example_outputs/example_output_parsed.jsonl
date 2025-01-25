@@ -1,0 +1,100 @@
+{"category": "Spatial Relationship", "data_id": 563, "parsed_pred": "C"}
+{"category": "Mathematical", "data_id": 1831, "parsed_pred": "C"}
+{"category": "Mathematical", "data_id": 1711, "parsed_pred": "D"}
+{"category": "Temporal Movement", "data_id": 162, "parsed_pred": "C"}
+{"category": "Mathematical", "data_id": 1666, "parsed_pred": "C"}
+{"category": "2D-Geometry", "data_id": 684, "parsed_pred": "C"}
+{"category": "Mathematical", "data_id": 1469, "parsed_pred": "D"}
+{"category": "2D-Geometry", "data_id": 670, "parsed_pred": "C"}
+{"category": "Temporal Movement", "data_id": 200, "parsed_pred": "A"}
+{"category": "Logical Operation", "data_id": 2253, "parsed_pred": "A"}
+{"category": "Mathematical", "data_id": 1162, "parsed_pred": "C"}
+{"category": "Logical Operation", "data_id": 2038, "parsed_pred": "D"}
+{"category": "Mathematical", "data_id": 1105, "parsed_pred": "A"}
+{"category": "Mathematical", "data_id": 1919, "parsed_pred": "D"}
+{"category": "2D-Geometry", "data_id": 778, "parsed_pred": "C"}
+{"category": "2D-Geometry", "data_id": 854, "parsed_pred": "A"}
+{"category": "3D-Geometry", "data_id": 2398, "parsed_pred": "D"}
+{"category": "Mathematical", "data_id": 1796, "parsed_pred": "D"}
+{"category": "Logical Operation", "data_id": 1924, "parsed_pred": "C"}
+{"category": "Mathematical", "data_id": 1267, "parsed_pred": "C"}
+{"category": "Mathematical", "data_id": 1657, "parsed_pred": "D"}
+{"category": "Temporal Movement", "data_id": 331, "parsed_pred": "C"}
+{"category": "Temporal Movement", "data_id": 372, "parsed_pred": "C"}
+{"category": "Mathematical", "data_id": 1699, "parsed_pred": "D"}
+{"category": "Spatial Relationship", "data_id": 457, "parsed_pred": "C"}
+{"category": "Mathematical", "data_id": 1256, "parsed_pred": "A"}
+{"category": "Temporal Movement", "data_id": 335, "parsed_pred": "C"}
+{"category": "Temporal Movement", "data_id": 107, "parsed_pred": "A"}
+{"category": "Mathematical", "data_id": 1759, "parsed_pred": "D"}
+{"category": "Mathematical", "data_id": 1737, "parsed_pred": "B"}
+{"category": "Temporal Movement", "data_id": 309, "parsed_pred": "D"}
+{"category": "Temporal Movement", "data_id": 145, "parsed_pred": "D"}
+{"category": "Mathematical", "data_id": 1147, "parsed_pred": "C"}
+{"category": "Mathematical", "data_id": 1752, "parsed_pred": "A"}
+{"category": "Mathematical", "data_id": 1592, "parsed_pred": "C"}
+{"category": "2D-Geometry", "data_id": 677, "parsed_pred": "A"}
+{"category": "2D-Geometry", "data_id": 912, "parsed_pred": "C"}
+{"category": "3D-Geometry", "data_id": 2698, "parsed_pred": "C"}
+{"category": "2D-Geometry", "data_id": 845, "parsed_pred": "A"}
+{"category": "Mathematical", "data_id": 1060, "parsed_pred": "C"}
+{"category": "Logical Operation", "data_id": 2208, "parsed_pred": "C"}
+{"category": "3D-Geometry", "data_id": 2334, "parsed_pred": "A"}
+{"category": "Mathematical", "data_id": 1343, "parsed_pred": "E"}
+{"category": "3D-Geometry", "data_id": 2543, "parsed_pred": "B"}
+{"category": "Mathematical", "data_id": 1213, "parsed_pred": "C"}
+{"category": "Mathematical", "data_id": 1344, "parsed_pred": "A"}
+{"category": "Logical Operation", "data_id": 2155, "parsed_pred": "A"}
+{"category": "Mathematical", "data_id": 1613, "parsed_pred": "C"}
+{"category": "Mathematical", "data_id": 1196, "parsed_pred": "C"}
+{"category": "2D-Geometry", "data_id": 742, "parsed_pred": "C"}
+{"category": "2D-Geometry", "data_id": 794, "parsed_pred": "A"}
+{"category": "Mathematical", "data_id": 1707, "parsed_pred": "A"}
+{"category": "Logical Operation", "data_id": 2291, "parsed_pred": "C"}
+{"category": "3D-Geometry", "data_id": 2329, "parsed_pred": "B"}
+{"category": "3D-Geometry", "data_id": 2668, "parsed_pred": "C"}
+{"category": "Concrete Object", "data_id": 646, "parsed_pred": "B"}
+{"category": "Logical Operation", "data_id": 2153, "parsed_pred": "C"}
+{"category": "Temporal Movement", "data_id": 43, "parsed_pred": "A"}
+{"category": "Logical Operation", "data_id": 2067, "parsed_pred": "A"}
+{"category": "Mathematical", "data_id": 1388, "parsed_pred": "C"}
+{"category": "Logical Operation", "data_id": 2246, "parsed_pred": "D"}
+{"category": "Spatial Relationship", "data_id": 515, "parsed_pred": "D"}
+{"category": "Temporal Movement", "data_id": 55, "parsed_pred": "C"}
+{"category": "3D-Geometry", "data_id": 2321, "parsed_pred": "C"}
+{"category": "Mathematical", "data_id": 1232, "parsed_pred": "C"}
+{"category": "3D-Geometry", "data_id": 2388, "parsed_pred": "C"}
+{"category": "3D-Geometry", "data_id": 2323, "parsed_pred": "B"}
+{"category": "Mathematical", "data_id": 1471, "parsed_pred": "C"}
+{"category": "Mathematical", "data_id": 1870, "parsed_pred": "A"}
+{"category": "Temporal Movement", "data_id": 126, "parsed_pred": "B"}
+{"category": "Temporal Movement", "data_id": 154, "parsed_pred": "D"}
+{"category": "2D-Geometry", "data_id": 743, "parsed_pred": "B"}
+{"category": "Mathematical", "data_id": 1328, "parsed_pred": "C"}
+{"category": "Mathematical", "data_id": 1281, "parsed_pred": "C"}
+{"category": "3D-Geometry", "data_id": 2536, "parsed_pred": "C"}
+{"category": "Logical Operation", "data_id": 1927, "parsed_pred": "D"}
+{"category": "Mathematical", "data_id": 1326, "parsed_pred": "A"}
+{"category": "2D-Geometry", "data_id": 962, "parsed_pred": "D"}
+{"category": "Spatial Relationship", "data_id": 451, "parsed_pred": "A"}
+{"category": "2D-Geometry", "data_id": 666, "parsed_pred": "D"}
+{"category": "Mathematical", "data_id": 1866, "parsed_pred": "C"}
+{"category": "Spatial Relationship", "data_id": 464, "parsed_pred": "C"}
+{"category": "Temporal Movement", "data_id": 111, "parsed_pred": "C"}
+{"category": "Logical Operation", "data_id": 1937, "parsed_pred": "D"}
+{"category": "Logical Operation", "data_id": 2265, "parsed_pred": "D"}
+{"category": "Mathematical", "data_id": 1172, "parsed_pred": "C"}
+{"category": "Temporal Movement", "data_id": 269, "parsed_pred": "C"}
+{"category": "Temporal Movement", "data_id": 370, "parsed_pred": "C"}
+{"category": "Temporal Movement", "data_id": 398, "parsed_pred": "B"}
+{"category": "Logical Operation", "data_id": 1979, "parsed_pred": "C"}
+{"category": "2D-Geometry", "data_id": 954, "parsed_pred": "D"}
+{"category": "Mathematical", "data_id": 1537, "parsed_pred": "C"}
+{"category": "Temporal Movement", "data_id": 258, "parsed_pred": "C"}
+{"category": "Mathematical", "data_id": 1225, "parsed_pred": "D"}
+{"category": "Mathematical", "data_id": 1331, "parsed_pred": "D"}
+{"category": "Logical Operation", "data_id": 2135, "parsed_pred": "A"}
+{"category": "2D-Geometry", "data_id": 956, "parsed_pred": "B"}
+{"category": "Logical Operation", "data_id": 2102, "parsed_pred": "C"}
+{"category": "Mathematical", "data_id": 1265, "parsed_pred": "C"}
+{"category": "Logical Operation", "data_id": 2236, "parsed_pred": "A"}
