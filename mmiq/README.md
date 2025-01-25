@@ -32,14 +32,14 @@ Then run eval_only with:
 python main_eval_only.py --output_path ./example_outputs/exampple_output_parsed.jsonl --answer_path ./MMIQ_benchmark_answer_dict.jsonl
 ```
 
-Please refer to [example output](https://github.com/AceCHQ/MMIQ/blob/main/mmiq/example_outputs/output_example.jsonl) for a detailed prediction file form.
+Please refer to [example output](https://github.com/AceCHQ/MMIQ/blob/main/mmiq/example_outputs/exampple_output_parsed.jsonl) for a detailed prediction file form.
 
 
 ## Parse and Evaluation
 You can also provide response and run the `main_parse_and_eval.py` to use our answer parsing processing and evaluation pipeline as follows:
 
 ### Output file
-Each `output.jsonl`` has lines of json, each containing an instance for evaluation ().
+Each `output.jsonl` has lines of json, each containing an instance for evaluation. 
 ```
     {
         "data_id": "0",
@@ -54,6 +54,10 @@ Each `output.jsonl`` has lines of json, each containing an instance for evaluati
     },
     ...
 ```
+
+Please refer to [example output](https://github.com/AceCHQ/MMIQ/blob/main/mmiq/example_outputs/example_model_output/output_example.jsonl) for a detailed prediction file form.
+
+
 
 ### Evaluation
 ```
