@@ -2,7 +2,7 @@
 
 [**🌐 Homepage**](https://mmiq-benchmark.github.io/) | [**🏆 Leaderboard**](https://acechq.github.io/MMIQ-benchmark/#leaderboard) | [**🤗 MMIQ**](https://huggingface.co/datasets/huanqia/MMIQ) | [**📖 MMIQ arXiv: Comming Soon**]() 
 
-This repo contains the evaluation code for the paper "[MMIQ: Are Your Multimodal Large Language Models Smart Enough?](https://arxiv.org/abs/)"
+This repo contains the evaluation code for the [MMIQ benchmark](https://acechq.github.io/MMIQ-benchmark/) 
 
 
 ## Introduction
