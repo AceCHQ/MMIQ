@@ -2,7 +2,7 @@
 
 [**🌐 Homepage**](https://acechq.github.io/MMIQ-benchmark/) | [**🏆 Leaderboard**](https://acechq.github.io/MMIQ-benchmark/#leaderboard) | [**🤗 MMIQ**](https://huggingface.co/datasets/huanqia/MMIQ) | [**📖 MMIQ arXiv: Comming Soon**]() 
 
-This repo contains the evaluation code for the [MMIQ benchmark](https://acechq.github.io/MMIQ-benchmark/) 
+This repo contains the evaluation code for the [MMIQ benchmark](https://acechq.github.io/MMIQ-benchmark/).
 
 
 ## Introduction
