@@ -26,7 +26,7 @@ You need to put all the outputs into *one file* in the following format by using
 
 Then run eval_only with:
 ```
-python main_eval_only.py --output_path ./example_outputs/exampple_output_parsed.jsonl --answer_path ./MMIQ_benchmark_answer_dict.jsonl
+python main_eval_only.py --output_path ./example_outputs/example_output_parsed.jsonl --answer_path ./MMIQ_benchmark_answer_dict.jsonl
 ```
 
 Please refer to [example output](https://github.com/AceCHQ/MMIQ/blob/main/mmiq/example_outputs/example_output_parsed.jsonl) for a detailed prediction file form.
