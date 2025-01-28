@@ -19,6 +19,8 @@ MMIQ is the most comprehensive and largest abstract visual reasoning (AVR) bench
 
 For more detailed information, please refer to [**MMIQ Dataset**](https://huggingface.co/datasets/huanqia/MMIQ).
 
+We have uploaded a demo to illustrate how to access the MMIQ dataset on Hugging Face, available at [hugging_face_dataset_demo.ipynb](https://github.com/AceCHQ/MMIQ/blob/main/mmiq/jupyter_notebook_demos/hugging_face_dataset_demo.ipynb).
+
 ## Evaluation
 
 Please refer to [**MMIQ Evaluation**](mmiq) for more detailed information.
