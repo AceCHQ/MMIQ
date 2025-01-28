@@ -17,7 +17,7 @@ MMIQ is the most comprehensive and largest abstract visual reasoning (AVR) bench
 <img src="https://acechq.github.io/MMIQ-benchmark/static/imgs/MMIQ_distribution.png" width="50%">
 </div>
 
-For more detailed information, please refer to [**MMIQ Dataset**](https://huggingface.co/datasets/MMIQ/).
+For more detailed information, please refer to [**MMIQ Dataset**](https://huggingface.co/datasets/huanqia/MMIQ).
 
 ## Evaluation
 
