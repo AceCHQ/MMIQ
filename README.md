@@ -42,3 +42,12 @@ If you encounter any data samples potentially breaching the copyright or licensi
 ## Acknowledgment
 Our code is based on [MMMU](https://github.com/MMMU-Benchmark/MMMU). We thank the authors of MMMU for their great work and clean code.
 
+## Citation
+```
+@misc{cai2025mm-iq,
+  title = {MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models},
+  author = {Huanqia Cai and Yijun Yang and Winston Hu},
+  month = {January},
+  year = {2025}
+}
+```
