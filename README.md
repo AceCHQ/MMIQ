@@ -1,6 +1,6 @@
 # MM-IQ Benchmark
 
-[**🌐 Homepage**](https://acechq.github.io/MMIQ-benchmark/) | [**🏆 Leaderboard**](https://acechq.github.io/MMIQ-benchmark/#leaderboard) | [**🤗 MM-IQ**](https://huggingface.co/datasets/huanqia/MMIQ) | [**📖 MM-IQ arXiv: Comming Soon**]() 
+[**🌐 Homepage**](https://acechq.github.io/MMIQ-benchmark/) | [**🏆 Leaderboard**](https://acechq.github.io/MMIQ-benchmark/#leaderboard) | [**🤗 MM-IQ**](https://huggingface.co/datasets/huanqia/MM-IQ) | [**📖 MM-IQ arXiv: Comming Soon**]() 
 
 This repo provides the evaluation code of the [MM-IQ benchmark](https://acechq.github.io/MMIQ-benchmark/).
 
@@ -17,7 +17,7 @@ MM-IQ is the most comprehensive and largest abstract visual reasoning (AVR) benc
 <img src="https://acechq.github.io/MMIQ-benchmark/static/imgs/MMIQ_distribution.png" width="50%">
 </div>
 
-For more detailed information, please refer to [**MM-IQ Dataset**](https://huggingface.co/datasets/huanqia/MMIQ).
+For more detailed information, please refer to [**MM-IQ Dataset**](https://huggingface.co/datasets/huanqia/MM-IQ).
 
 We have uploaded a demo to illustrate how to access the MM-IQ dataset on Hugging Face, available at [hugging_face_dataset_demo.ipynb](https://github.com/AceCHQ/MMIQ/blob/main/mmiq/jupyter_notebook_demos/hugging_face_dataset_demo.ipynb).
 
