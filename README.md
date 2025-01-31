@@ -9,7 +9,9 @@ This repo provides the evaluation code of the [MM-IQ benchmark](https://acechq.g
 
 ###  MM-IQ
 
-MM-IQ is the most comprehensive and largest abstract visual reasoning (AVR) benchmark for evaluating MLLMs' intelligence levels through multiple reasoning patterns. It encompasses three input formats, six problem configurations, and eight reasoning patterns. MM-IQ consists of **2,710 samples** and is **3x** and **10x** larger than two recent benchmarks MARVEL and MathVista-IQTest, respectively. Through a quantitative evaluation using MM-IQ, we found that state-of-the-art MLLMs such as GPT-4o and Gemini only achieve an average accuracy of 27.49%, slightly higher than randomly selecting a single correct answer from four options.
+IQ testing has served as a foundational methodology for evaluating human cognitive capabilities, deliberately decoupling assessment from linguistic background, language proficiency, or domain-specific knowledge to isolate core competencies in abstraction and reasoning. Yet, artificial intelligence research currently lacks systematic benchmarks to quantify these critical cognitive dimensions in multimodal systems. To address this critical gap, we propose **MM-IQ**, a comprehensive evaluation framework comprising **2,710** meticulously curated test items spanning **8** distinct reasoning paradigms.
+
+Through systematic evaluation of leading open-source and proprietary multimodal models, our benchmark reveals striking limitations: even state-of-the-art architectures achieve only marginally superior performance to random chance (27.49% vs. 25% baseline accuracy). This substantial performance chasm highlights the inadequacy of current multimodal systems in approximating fundamental human reasoning capacities, underscoring the need for paradigm-shifting advancements to bridge this cognitive divide.
 
 
 ## Dataset Curation
