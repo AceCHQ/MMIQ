@@ -31,7 +31,7 @@ Please refer to [**MM-IQ Evaluation**](mmiq) for more detailed information.
 🎯 **MM-IQ Evaluation**
 
 - **We have released MM-IQ dataset with 2710 problems, across eight reasoning patterns.**
-- **With our evaluation folder, you can use the MLLM's response or the parsed prediction as input to get the performance of MM-IQ.**
+- **With our evaluation folder, you can use the LMM's response or the parsed prediction as input to get the performance of MM-IQ.**
 
 
 ## Disclaimers
