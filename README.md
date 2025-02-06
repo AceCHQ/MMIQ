@@ -1,6 +1,6 @@
 # MM-IQ Benchmark
 
-[**🌐 Homepage**](https://acechq.github.io/MMIQ-benchmark/) | [**🏆 Leaderboard**](https://acechq.github.io/MMIQ-benchmark/#leaderboard) | [**🤗 MM-IQ**](https://huggingface.co/datasets/huanqia/MM-IQ) | [**📖 MM-IQ Paper](https://arxiv.org/pdf/2502.00698) 
+[**🌐 Homepage**](https://acechq.github.io/MMIQ-benchmark/) | [**🏆 Leaderboard**](https://acechq.github.io/MMIQ-benchmark/#leaderboard) | [**🤗 MM-IQ**](https://huggingface.co/datasets/huanqia/MM-IQ) | [**📖 MM-IQ Paper**](https://arxiv.org/pdf/2502.00698) 
 
 This repo provides the evaluation code of the [MM-IQ benchmark](https://acechq.github.io/MMIQ-benchmark/).
 
