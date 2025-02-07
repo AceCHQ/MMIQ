@@ -46,9 +46,9 @@ Our code is based on [MMMU](https://github.com/MMMU-Benchmark/MMMU). We thank th
 
 ## Citation
 ```
-@misc{cai2025mm-iq,
+@article{cai2025mm,
   title={MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models},
-  author={Huanqia Cai and Yijun Yang and Winston Hu},
+  author={Cai, Huanqia and Yang, Yijun and Hu, Winston},
   journal={arXiv preprint arXiv:2502.00698},
   year={2025}
 }
