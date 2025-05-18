@@ -9,6 +9,9 @@ import numpy as np
 
 def extract_choice(response):
     response = response.strip()
+    boxed_match = re.search(r'\\boxed\{([A-E])\}', response)
+    if boxed_match:
+        return boxed_match.group(1)
     answer_prefixes = [
         'The best answer is',
         'The correct answer is',
